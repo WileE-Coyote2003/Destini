@@ -1,16 +1,59 @@
-# destini
+📖 Destini - Interactive Story App
 
-A new Flutter project.
+Destini is a Flutter-based interactive storytelling application where users make choices that influence the outcome of the story. Inspired by choose-your-own-adventure books, the app provides multiple story paths and endings based on user decisions.
 
-## Getting Started
+✨ Features
 
-This project is a starting point for a Flutter application.
+* Interactive branching storylines
+* Multiple endings based on user choices
+* Simple and intuitive user interface
+* Built with Flutter and Dart
+* Responsive design for Android devices
 
-A few resources to get you started if this is your first Flutter project:
+🛠️ Technologies Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* Flutter
+* Dart
+* Material Design
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+📂 Project Structure
+
+lib/
+├── main.dart
+├── story.dart
+├── story_brain.dart
+└── constants.dart
+
+🚀 Getting Started
+
+Prerequisites
+
+* Flutter SDK
+* Dart SDK
+* Android Studio or VS Code
+
+Installation
+
+1. Clone the repository
+
+git clone https://github.com/your-username/destini.git
+
+2. Navigate to the project directory
+
+cd destini
+
+3. Install dependencies
+
+flutter pub get
+
+4. Run the application
+
+flutter run
+
+
+
+This project is for educational purpose
+
+:::
+
+If this is for a university portfolio or GitHub showcase, I can also ￼ make it look more professional with badges, screenshots section, learning outcomes, and architecture diagrams.
