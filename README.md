@@ -36,7 +36,7 @@ Installation
 
 1. Clone the repository
 
-git clone https://github.com/your-username/destini.git
+git clone https://github.com/WileE-Coyote2003/Destini.git
 
 2. Navigate to the project directory
 
